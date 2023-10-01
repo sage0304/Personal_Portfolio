@@ -522,7 +522,8 @@ span {
     color: var(--text-color);
 }
 
-.months-content .progress .bar {
+/* Thanh ngang phần trăm */
+/* .months-content .progress .bar {
     height: 2.5rem;
     border-radius: .6rem;
     border: .2rem solid var(--main-color);
@@ -535,9 +536,10 @@ span {
     height: 100%;
     border-radius: .3rem;
     background: var(--main-color);
-}
+} */
+
 /* September */
-.months-column:nth-child(1) .months-content .progress:nth-child(1) .bar span {
+/* .months-column:nth-child(1) .months-content .progress:nth-child(1) .bar span {
     width: 100%;
 }
 .months-column:nth-child(1) .months-content .progress:nth-child(2) .bar span {
@@ -548,9 +550,9 @@ span {
 }
 .months-column:nth-child(1) .months-content .progress:nth-child(4) .bar span {
     width: 100%;
-}
+} */
 /* October */
-.months-column:nth-child(2) .months-content .progress:nth-child(1) .bar span {
+/* .months-column:nth-child(2) .months-content .progress:nth-child(1) .bar span {
     width: 0%;
 }
 .months-column:nth-child(2) .months-content .progress:nth-child(2) .bar span {
@@ -561,9 +563,9 @@ span {
 }
 .months-column:nth-child(2) .months-content .progress:nth-child(4) .bar span {
     width: 0%;
-}
+} */
 /* November */
-.months-column:nth-child(3) .months-content .progress:nth-child(1) .bar span {
+/* .months-column:nth-child(3) .months-content .progress:nth-child(1) .bar span {
     width: 0%;
 }
 .months-column:nth-child(3) .months-content .progress:nth-child(2) .bar span {
@@ -574,9 +576,9 @@ span {
 }
 .months-column:nth-child(3) .months-content .progress:nth-child(4) .bar span {
     width: 0%;
-}
+} */
 /* December */
-.months-column:nth-child(4) .months-content .progress:nth-child(1) .bar span {
+/* .months-column:nth-child(4) .months-content .progress:nth-child(1) .bar span {
     width: 0%;
 }
 .months-column:nth-child(4) .months-content .progress:nth-child(2) .bar span {
@@ -587,7 +589,7 @@ span {
 }
 .months-column:nth-child(4) .months-content .progress:nth-child(4) .bar span {
     width: 0%;
-}
+} */
 /* EXERCISE SECTION DESIGN END */
 
 /* CONTACT SECTION DESIGN START */
