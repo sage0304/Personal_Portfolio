@@ -474,6 +474,13 @@ span {
     margin: 0 0 1.5rem;
 }
 
+.months-column .tittle1 {
+    position: relative;
+    display: inline-block;
+    font-size: 2.0rem;
+    margin: 0 0 1.5rem;
+}
+
 .months-column .months-box {
     position: relative;
 }
